@@ -1,0 +1,22 @@
+<footer class="footer">
+  <div class="footer-container">
+    
+    <h2 class="logo">AI Tools Hub</h2>
+    <p class="footer-text">
+      Discover 100+ powerful AI tools in one place. 
+      Boost your productivity with the latest AI technology.
+    </p>
+
+    <div class="footer-links">
+      <a href="#">Home</a>
+      <a href="#">AI Tools</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </div>
+
+    <div class="footer-bottom">
+      <p>© 2026 AI Tools Hub | Made with ❤️ by <span>Areeb</span></p>
+    </div>
+
+  </div>
+</footer>
