@@ -1,0 +1,32 @@
+[
+{
+"name":"ChatGPT",
+"desc":"Best AI chatbot for writing and coding",
+"link":"https://chat.openai.com"
+},
+
+{
+"name":"Midjourney",
+"desc":"AI image generator",
+"link":"https://midjourney.com"
+},
+
+{
+"name":"Runway ML",
+"desc":"AI video editing tool",
+"link":"https://runwayml.com"
+},
+
+{
+"name":"Copy.ai",
+"desc":"AI copywriting tool",
+"link":"https://copy.ai"
+},
+
+{
+"name":"Jasper AI",
+"desc":"AI content writing tool",
+"link":"https://jasper.ai"
+}
+
+]
